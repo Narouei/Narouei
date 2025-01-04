@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VOLVEX.IR 
-- 👀 I’m interested in iran
-- 🌱 I’m currently learning AVR programming 
+- 👀 I’m interested in world
+- 🌱 I’m currently learning AVR & ARM in C and C++ programming 
 - 📫 website: https://volvex.ir 
 
 <!---
